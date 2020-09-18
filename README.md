@@ -31,3 +31,6 @@ The dissemination of Fake news always beat out the truth with significant growth
   language = {english}
   }
 ```
+
+### Leaderboard
+![Leaderboard](leaderboard.png)
