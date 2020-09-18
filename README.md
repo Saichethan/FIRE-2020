@@ -4,6 +4,7 @@
 The dissemination of Fake news always beat out the truth with significant growth. Fake news and false rumors are spreading further and faster, reaching more people, and penetrating deeper into social networks. We propose the task titled “Fake News Detection in the Urdu Language", which aims at identifying deceiving news articles in the Urdu language spread via digital media. Urdu fake news detection has been investigated (Amjad al.,2020), and we want better results at the level of English language and more methods. The objective of organizing this task is to address the problem of detecting deceiving information in Urdu language using digital media text.
 
 ### Dataset
+The corpus can be downloaded from [Github](https://github.com/MaazAmjad/Datasets-for-Urdu-news)
 
 ### Models
 
@@ -13,6 +14,17 @@ The dissemination of Fake news always beat out the truth with significant growth
 
 
 ### Reference
+
+[Dataset Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179905)
+```
+@article{MaazUrdufake2020,
+author = { Maaz Amjad, Grigori Sidorov, Alisa Zhila, Helena G\’{o}mez-Adorno, Ilia Voronkov, Alexander Gelbukh},
+title = {Bend the Truth: A Benchmark Dataset for Fake News Detection in Urdu and Its Evaluation},
+journal = {Journal of Intelligent and Fuzzy Systems},
+year = {2020}
+}
+```
+
 [Urdu Word Embeddings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf)
 ```
 
@@ -34,3 +46,5 @@ The dissemination of Fake news always beat out the truth with significant growth
 
 ### Leaderboard
 ![Leaderboard](leaderboard.png)
+* we stood at fourth position
+
