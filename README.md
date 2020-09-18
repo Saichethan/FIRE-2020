@@ -12,9 +12,9 @@ The dissemination of Fake news always beat out the truth with significant growth
 ### Citation
 
 
-
-```
+### Reference
 [Urdu Word Embeddings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf)
+```
 
 @InProceedings{HAIDER18.148,
   author = {Samar Haider},
