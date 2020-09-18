@@ -9,18 +9,20 @@ The corpus can be downloaded from [Github](https://github.com/MaazAmjad/Datasets
 ### Models
 For this task we developed two models
 * Transformer based (tansformer.ipynb)
-* Bi-LSTM based (Model.ipynb)
+* Bi-LSTM based (model.ipynb)
 
 ### Results
 Results on validation data using our models
 
-
 ### Citation
 
+### Leaderboard
+![Leaderboard](leaderboard.png)
+* we stood at fourth position
 
 ### References
 
-[Dataset Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179905)
+* [Dataset Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179905)
 ```
 @article{MaazUrdufake2020,
 author = { Maaz Amjad, Grigori Sidorov, Alisa Zhila, Helena G\’{o}mez-Adorno, Ilia Voronkov, Alexander Gelbukh},
@@ -30,7 +32,7 @@ year = {2020}
 }
 ```
 
-[Urdu Word Embeddings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf)
+* [Urdu Word Embeddings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf)
 ```
 
 @InProceedings{HAIDER18.148,
@@ -49,7 +51,4 @@ year = {2020}
   }
 ```
 
-### Leaderboard
-![Leaderboard](leaderboard.png)
-* we stood at fourth position
 
