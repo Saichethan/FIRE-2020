@@ -7,13 +7,18 @@ The dissemination of Fake news always beat out the truth with significant growth
 The corpus can be downloaded from [Github](https://github.com/MaazAmjad/Datasets-for-Urdu-news)
 
 ### Models
+For this task we developed two models
+* Transformer based (tansformer.ipynb)
+* Bi-LSTM based (Model.ipynb)
 
 ### Results
+Results on validation data using our models
+
 
 ### Citation
 
 
-### Reference
+### References
 
 [Dataset Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179905)
 ```
