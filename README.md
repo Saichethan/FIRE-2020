@@ -50,5 +50,8 @@ year = {2020}
   language = {english}
   }
 ```
+### Authors
+* Saichethan Miriyala Reddy
+* Chanchal Suman
 
 
